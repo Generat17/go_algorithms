@@ -1,0 +1,20 @@
+# go_algorithms
+Standard algorithms and data structures
+
+## Data Structure
+- [Binary Tree](https://github.com/Generat17/go_algorithms/tree/main/data/bintree)
+- [Deque](https://github.com/Generat17/go_algorithms/tree/main/data/deque)
+- [Hash](https://github.com/Generat17/go_algorithms/tree/main/data/hash)
+- [List](https://github.com/Generat17/go_algorithms/tree/main/data/list)
+- [Stack](https://github.com/Generat17/go_algorithms/tree/main/data/stack)
+
+## Sorting
+- [Bubble Sort](https://github.com/Generat17/go_algorithms/tree/main/sorting/bubble)
+- [Quick Sort](https://github.com/Generat17/go_algorithms/tree/main/sorting/quick)
+- [Insertion Sort](https://github.com/Generat17/go_algorithms/tree/main/sorting/insertion)
+- [Selection Sort](https://github.com/Generat17/go_algorithms/tree/main/sorting/selection)
+
+## Searches
+- [Binary Search]()
+- [Interpolation Search]()
+- [Jump Search]()
