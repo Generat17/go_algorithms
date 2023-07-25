@@ -1,4 +1,3 @@
-# go_algorithms
 Standard algorithms and data structures
 
 ## Data Structure
