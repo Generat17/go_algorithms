@@ -15,6 +15,10 @@ Standard algorithms and data structures
 - [Selection Sort](https://github.com/Generat17/go_algorithms/tree/main/sorting/selection)
 
 ## Searches
-- [Binary Search]()
-- [Interpolation Search]()
-- [Jump Search]()
+- [Binary Search](https://github.com/Generat17/go_algorithms/tree/main/searches/binary)
+- [Interpolation Search](https://github.com/Generat17/go_algorithms/tree/main/searches/interpolation)
+- [Jump Search](https://github.com/Generat17/go_algorithms/tree/main/searches/jump)
+
+## Simulations
+- [Birthday problem](https://github.com/Generat17/go_algorithms/tree/main/simulations/birthday)
+- [Monty Hall problem](https://github.com/Generat17/go_algorithms/tree/main/simulations/monty)
